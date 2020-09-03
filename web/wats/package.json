@@ -6,7 +6,7 @@
     "ava": "^0.25.0",
     "child-process-promise": "^2.2.1",
     "color": "^2.0.0",
-    "puppeteer": "^1.12.2",
+    "puppeteer": "^1.13.0",
     "tmp-promise": "^1.0.3",
     "uuid": "^3.1.0"
   },
